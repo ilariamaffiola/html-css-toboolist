@@ -3,6 +3,7 @@
     margin: 0;
     box-sizing: border-box;
     background-color: #fff;
+    font-family: "Poppins", serif;
 }
 /* HEADER */
 .intestazione{
@@ -56,4 +57,41 @@ h1{
     font-size: 12px;
     font-weight: 400;
 }
-/*  */
+.topmarginpage{
+    margin-top: 40px;
+}
+/*LISTA*/
+.listnone{
+    list-style-type: none;
+}
+.fonttitlelist{
+    font-family: "Poppins", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+.symbols{
+    display: inline-block;
+    padding:5px;
+}
+.flag{
+    display: inline-block;
+    color: #9cbfb3;
+    border: 1px;
+    border-style: solid;
+    border-color: #9cbfb3;
+    border-radius: 50%;
+    font-size: 15px;
+    width: 23px;
+    height: 23px;
+    text-align: center;
+    margin-right: 12px;
+}
+#buttonlist{
+    border-radius: 34%;
+    width: 67px;
+    height: 30px;
+    margin-left: 5px;
+}
+.margintoplist{
+    margin-top: 20px;
+}
