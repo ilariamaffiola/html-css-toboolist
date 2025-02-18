@@ -93,5 +93,79 @@ h1{
     margin-left: 5px;
 }
 .margintoplist{
-    margin-top: 20px;
+    margin-top: 15px;
+}
+
+#formabottoneblu{
+    border-radius: 34%;
+    width: 67px;
+    height: 30px;
+    margin-left: 5px;
+}
+.violetbutton{
+    background-color: #9d74e4;
+    display: inline-block;
+    padding: 6px 9px;
+    border-style: solid;
+    border-color: lightgrey;
+    border-width: 1px;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 12px;
+    font-weight: 400;
+}
+#forma-bottone-viola{
+    border-radius: 34%;
+    width: 72px;
+    height: 30px;
+    margin-left: 5px;
+}
+.cross{
+    display: inline-block;
+    color: #9a656d;
+    border: 1px;
+    border-style: solid;
+    border-color: #9a656d;
+    border-radius: 50%;
+    font-size: 15px;
+    width: 23px;
+    height: 23px;
+    text-align: center;
+    margin-right: 12px;
+}
+.green-button{
+    background-color: #67c2aa;
+    display: inline-block;
+    padding: 6px 9px;
+    border-style: solid;
+    border-color: lightgrey;
+    border-width: 1px;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 12px;
+    font-weight: 400;
+}
+#forma-bottone-verde{
+    border-radius: 34%;
+    width: 82px;
+    height: 29px;
+    margin-left: 5px;
+}
+.orage-button{
+    background-color: #f19f31;
+    display: inline-block;
+    padding: 6px 9px;
+    border-style: solid;
+    border-color: lightgrey;
+    border-width: 1px;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 12px;
+    font-weight: 400;
+}
+#forma-orange-button{
+    border-radius: 34%;
+    width: 63px;
+    height: 29px;
+    margin-left: 5px;
 }
